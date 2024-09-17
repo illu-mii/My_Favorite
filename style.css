@@ -6,3 +6,10 @@ body{
 div{
     margin-bottom: 20px;
 }
+
+img {
+    float: center;
+    width: 400px;
+    height: 300px;
+    object-fit: cover;
+}
